@@ -2,14 +2,13 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /* ------------------------------
-Daily Coding 15_modulo
+15_modulo
+Daily Coding from CodeStates
 Wed 15 June 2022
-from CodeStates
 
 Input 2 numbers (num1, num2) and return remainder of dividing num1 by num2
 ( Not using operator divider / and operator remainder % ).
-
------------------------------- */
+----------------------------- */
 
 public class modulo {
     public static void main(String[] args) {
