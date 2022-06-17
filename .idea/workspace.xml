@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="14 JUNE 2022">
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Not done  &#10;16 JUNE 2022">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,25 +30,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Git.Branch.Popup.ShowAllRepositories&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hakyeong/IdeaProjects/CodeStates_DailyCoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Git.Branch.Popup.ShowAllRepositories": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_DailyCoding",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.isIsogram">
-    <configuration name="InsertDash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertDash" />
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.computeSquareRoot">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="computeSquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="computeSquareRoot" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.computeSquareRoot" />
         <item itemvalue="애플리케이션.isIsogram" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.superIncreasing" />
         <item itemvalue="애플리케이션.modulo" />
-        <item itemvalue="애플리케이션.InsertDash" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655267299951</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Not done  &#10;16 JUNE 2022">
+      <created>1655343429216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655343429216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,8 +151,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/02_ComputeWhenDouble" />
+      <path value="$PROJECT_DIR$/03_PowerOfTwo" />
+      <path value="$PROJECT_DIR$/04_firstCharacter" />
+      <path value="$PROJECT_DIR$/06_letterCapitalize" />
+      <path value="$PROJECT_DIR$/07_convertListToObject" />
+      <path value="$PROJECT_DIR$/08_convertDoubleSpaceToSingle" />
+      <path value="$PROJECT_DIR$/09_ABCheck" />
+      <path value="$PROJECT_DIR$/10_insertDash" />
+    </ignored-roots>
     <MESSAGE value="15JUN22" />
     <MESSAGE value="14 JUNE 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="14 JUNE 2022" />
+    <MESSAGE value="Not done  &#10;16 JUNE 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Not done  &#10;16 JUNE 2022" />
   </component>
 </project>
