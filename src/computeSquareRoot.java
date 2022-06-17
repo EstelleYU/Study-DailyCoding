@@ -13,7 +13,7 @@ import static java.lang.String.format;
 
 public class computeSquareRoot {
     public static void main(String[] args) {
-        double num = 5;
+        double num = 10;
         double num1 = 1;
         while(true) {
             if(num1 * num1 < num ) num1++;
@@ -25,6 +25,6 @@ public class computeSquareRoot {
             num1 = Math.round(num1 * 100) / 100.0;
             System.out.println("num1 = " + num1);
         }
-        System.out.println(num1);
+        System.out.println(String.format("%.2f", num1));
     }
 }
