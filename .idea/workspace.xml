@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="17 JUNE 2022" />
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="17 JUNE 2022 레퍼코드 포함">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655424293073</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="17 JUNE 2022 레퍼코드 포함">
+      <created>1655424584807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655424584807</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +185,7 @@
     <MESSAGE value="14 JUNE 2022" />
     <MESSAGE value="Not done  &#10;16 JUNE 2022" />
     <MESSAGE value="17 JUNE 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 JUNE 2022" />
+    <MESSAGE value="17 JUNE 2022 레퍼코드 포함" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 JUNE 2022 레퍼코드 포함" />
   </component>
 </project>
