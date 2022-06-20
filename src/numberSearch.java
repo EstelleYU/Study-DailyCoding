@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /* ------------------------------
 18_numberSearch
 Daily Coding from CodeStates
@@ -13,6 +15,7 @@ Return the share rounded to the integer.
 ----------------------------- */
 public class numberSearch {
     public static void main(String[] args) {
+
         String str = "Hello6 9World 2,";
         double strLength = 0 ;
         double sum = 0;
