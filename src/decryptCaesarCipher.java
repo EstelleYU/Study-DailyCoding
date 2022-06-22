@@ -41,9 +41,9 @@ public class decryptCaesarCipher {
         for (int i=0; i<str.length(); i++){
             int numAcs = str.charAt(i);
             if (numAcs+secret>122){
-                convertedWord.append(Character.toString((int)numAcs + secret - 26));
+                convertedWord.append(Character.toString((char)((int)numAcs + secret - 26)));
             }
-            convertedWord.append(Character.toString((int)numAcs + secret));
+            convertedWord.append(Character.toString((char)((int)numAcs + secret)));
         }
 
         System.out.println(convertedWord);
