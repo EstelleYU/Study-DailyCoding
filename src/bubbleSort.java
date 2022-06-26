@@ -1,5 +1,6 @@
 
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 
@@ -7,13 +8,21 @@ import java.util.Scanner;
 
 22_bubbleSort
 Daily Coding from CodeStates
-Fri 23 June 2022
+Mon 27 June 2022
+
+Return the int array in ascending order.
+The bubble sort algorithm as below.
+Step1. If the first element is larger than the second one, swap the positions of the two elements.
+Step2. If the second element is larger than the third one, swap the positions of the two elements.
+Step3. Repeat step1 and step2 until the end of array. (At the last, compare the second element and the last element)
+Through step1 to step3 once, the largest element is pushed to the end of the array.
+Step4~. Repeat step1 to step3 once again, the second largest element is pushed  to the second position from the back of the array
+Repeat this process for n times (size of the array).
+It is called bubble sort because it looks like 'like a bubble being pushed up'.
 
 정수를 요소로 갖는 배열을 입력받아 오름차순으로 정렬하여 리턴해야 합니다.
 버블 정렬(bubble sort)은 여러 정렬 알고리즘 (삽입 정렬, 퀵 정렬, 병합 정렬, 기수 정렬 등) 중 가장 기본적인 알고리즘입니다.
-
 버블 정렬 알고리즘은 아래와 같습니다.
-
 첫 번째 요소가 두 번째 요소보다 크면, 두 요소의 위치를 바꿉니다. (swap)
 두 번째 요소와 세 번째 요소보다 크면, 두 요소의 위치를 바꿉니다. (swap)
 1, 2를 마지막까지 반복합니다. (마지막에서 두 번째 요소와 마지막 요소를 비교)
@@ -27,9 +36,26 @@ Fri 23 June 2022
 
 public class bubbleSort {
     public static void main(String[] args) {
+        int[] arr = {1, 2, 43, 100, 100, 21};
 
-
-
+        for(int i = 1; i < arr.length; i++) {
+            boolean swapped = false;
+            for(int j = 0; j < arr.length - i; j++) {
+                if(arr[j] > arr [j + 1]) {
+                    swap(arr, j, j + 1);
+                    swapped = true;
+                }
+            }
+            if(swapped == false) {
+                break;
+            }
+        }
+        System.out.println(Arrays.toString(arr));
+    }
+    public static void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
 

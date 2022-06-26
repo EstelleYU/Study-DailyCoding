@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="TGIF!! 24 June 2022 (21_largestProductOfThree Daily Coding)" />
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Fri 24 June 2022 (21_largestProductOfThree Daily  Coding)TGIF!!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubbleSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,16 +40,16 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.largestProductOfThree">
-    <configuration name="compressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compressString" />
+  <component name="RunManager" selected="애플리케이션.bubbleSort">
+    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubbleSort" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="computeSquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="computeSquareRoot" />
+    <configuration name="compressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compressString" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.bubbleSort" />
         <item itemvalue="애플리케이션.largestProductOfThree" />
         <item itemvalue="애플리케이션.compressString" />
         <item itemvalue="애플리케이션.decryptCaesarCipher" />
         <item itemvalue="애플리케이션.numberSearch" />
-        <item itemvalue="애플리케이션.computeSquareRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656030931754</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Fri 24 June 2022 (21_largestProductOfThree Daily  Coding)TGIF!!">
+      <created>1656031023078</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656031023078</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +248,7 @@
     <MESSAGE value="TUE 21 June 2022 (19_decryptCaesarCipher Daily Coding)" />
     <MESSAGE value="Thu 23 June 2022 (20_compressString Daily Coding)" />
     <MESSAGE value="TGIF!! 24 June 2022 (21_largestProductOfThree Daily Coding)" />
-    <option name="LAST_COMMIT_MESSAGE" value="TGIF!! 24 June 2022 (21_largestProductOfThree Daily Coding)" />
+    <MESSAGE value="Fri 24 June 2022 (21_largestProductOfThree Daily  Coding)TGIF!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fri 24 June 2022 (21_largestProductOfThree Daily  Coding)TGIF!!" />
   </component>
 </project>
