@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Mon 27 June 2022 (22_bubbleSort from CodeStates)">
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Tue 28 June 2022 (23_fibonacci Daily Coding)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +24,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AVdCCH720pF2NGNtlpefDlTof3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.fibonacci">
+  <component name="RunManager" selected="애플리케이션.isSubsetOf">
     <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bubbleSort" />
       <module name="CodeStates_DailyCoding3" />
@@ -54,15 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decryptCaesarCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decryptCaesarCipher" />
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacci" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fibonacci" />
+    <configuration name="isSubsetOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isSubsetOf" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.isSubsetOf" />
         <item itemvalue="애플리케이션.fibonacci" />
         <item itemvalue="애플리케이션.bubbleSort" />
         <item itemvalue="애플리케이션.largestProductOfThree" />
         <item itemvalue="애플리케이션.compressString" />
-        <item itemvalue="애플리케이션.decryptCaesarCipher" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656287933231</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Tue 28 June 2022 (23_fibonacci Daily Coding)">
+      <created>1656371267903</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656371267903</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Tue 28 June 2022 (23_fibonacci Daily Coding)">
+      <created>1656371282389</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1656371282389</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +272,7 @@
     <MESSAGE value="TGIF!! 24 June 2022 (21_largestProductOfThree Daily Coding)" />
     <MESSAGE value="Fri 24 June 2022 (21_largestProductOfThree Daily  Coding)TGIF!!" />
     <MESSAGE value="Mon 27 June 2022 (22_bubbleSort from CodeStates)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mon 27 June 2022 (22_bubbleSort from CodeStates)" />
+    <MESSAGE value="Tue 28 June 2022 (23_fibonacci Daily Coding)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tue 28 June 2022 (23_fibonacci Daily Coding)" />
   </component>
 </project>
