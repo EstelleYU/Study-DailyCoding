@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Tue 28 June 2022 (23_fibonacci Daily Coding)">
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Wed 29 June 2022 (24_isSubsetOf Daily Coding)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +41,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.isSubsetOf">
+  <component name="RunManager" selected="애플리케이션.power">
     <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bubbleSort" />
-      <module name="CodeStates_DailyCoding3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="compressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compressString" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="power" />
+      <module name="CodeStates_DailyCoding3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="CodeStates_DailyCoding" />
       <method v="2">
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.power" />
         <item itemvalue="애플리케이션.isSubsetOf" />
         <item itemvalue="애플리케이션.fibonacci" />
         <item itemvalue="애플리케이션.bubbleSort" />
         <item itemvalue="애플리케이션.largestProductOfThree" />
-        <item itemvalue="애플리케이션.compressString" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656371282389</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Wed 29 June 2022 (24_isSubsetOf Daily Coding)">
+      <created>1656461861543</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656461861543</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +280,17 @@
     <MESSAGE value="Fri 24 June 2022 (21_largestProductOfThree Daily  Coding)TGIF!!" />
     <MESSAGE value="Mon 27 June 2022 (22_bubbleSort from CodeStates)" />
     <MESSAGE value="Tue 28 June 2022 (23_fibonacci Daily Coding)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tue 28 June 2022 (23_fibonacci Daily Coding)" />
+    <MESSAGE value="Wed 29 June 2022 (24_isSubsetOf Daily Coding)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wed 29 June 2022 (24_isSubsetOf Daily Coding)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
