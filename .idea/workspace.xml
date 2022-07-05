@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Wed 29 June 2022 (24_isSubsetOf Daily Coding)">
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Thu 30 June 2022 (25_Power Daily Coding) &#10;Return base to the power of exponent.&#10;Exception in thread &quot;main&quot; java.lang.StackOverflowError">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Git.Branch.Popup.ShowAllRepositories&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hakyeong/IdeaProjects/CodeStates_DailyCoding&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Git.Branch.Popup.ShowAllRepositories": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_DailyCoding",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.power">
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.treeBFS">
     <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bubbleSort" />
       <module name="CodeStates_DailyCoding3" />
@@ -63,15 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestProductOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="largestProductOfThree" />
+    <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="power" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="power" />
+    <configuration name="treeBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treeBFS" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.treeBFS" />
         <item itemvalue="애플리케이션.power" />
         <item itemvalue="애플리케이션.isSubsetOf" />
         <item itemvalue="애플리케이션.fibonacci" />
         <item itemvalue="애플리케이션.bubbleSort" />
-        <item itemvalue="애플리케이션.largestProductOfThree" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656461861543</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Thu 30 June 2022 (25_Power Daily Coding) &#10;Return base to the power of exponent.&#10;Exception in thread &quot;main&quot; java.lang.StackOverflowError">
+      <created>1656550019119</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656550019119</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +288,8 @@
     <MESSAGE value="Mon 27 June 2022 (22_bubbleSort from CodeStates)" />
     <MESSAGE value="Tue 28 June 2022 (23_fibonacci Daily Coding)" />
     <MESSAGE value="Wed 29 June 2022 (24_isSubsetOf Daily Coding)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wed 29 June 2022 (24_isSubsetOf Daily Coding)" />
+    <MESSAGE value="Thu 30 June 2022 (25_Power Daily Coding) &#10;Return base to the power of exponent.&#10;Exception in thread &quot;main&quot; java.lang.StackOverflowError" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thu 30 June 2022 (25_Power Daily Coding) &#10;Return base to the power of exponent.&#10;Exception in thread &quot;main&quot; java.lang.StackOverflowError" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
