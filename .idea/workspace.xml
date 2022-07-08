@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Thursday,July 7th,2022 (30_rotatedArraySearch Daily Coding)">
-      <change beforePath="$PROJECT_DIR$/src/rotatedArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotatedArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +41,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.treeBFS">
-    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bubbleSort" />
-      <module name="CodeStates_DailyCoding3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.powerSet">
     <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fibonacci" />
       <module name="CodeStates_DailyCoding3" />
@@ -65,6 +58,13 @@
     </configuration>
     <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="power" />
+      <module name="CodeStates_DailyCoding3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="powerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="powerSet" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.powerSet" />
         <item itemvalue="애플리케이션.treeBFS" />
         <item itemvalue="애플리케이션.power" />
         <item itemvalue="애플리케이션.isSubsetOf" />
         <item itemvalue="애플리케이션.fibonacci" />
-        <item itemvalue="애플리케이션.bubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +284,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657266115926</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Thursday,July 7th,2022 (30_rotatedArraySearch Daily Coding)">
+      <created>1657266154324</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1657266154324</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Thursday,July 7th,2022 (30_rotatedArraySearch Daily Coding)">
+      <created>1657266314343</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1657266314343</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
