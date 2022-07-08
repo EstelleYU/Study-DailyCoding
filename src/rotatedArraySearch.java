@@ -35,7 +35,7 @@ Advanced
 이진 탐색(binary search)을 약간 변형하여 해결합니다.
 
  ------------------------------------*/
-public class powerSet {
+public class rotatedArraySearch {
 }
 
 
