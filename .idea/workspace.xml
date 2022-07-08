@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Monday, July 4th, 2022 (27_treeBFS from Daily Coding)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Tuesday, July 5th, 2022 (28_balancedBrackets Daily Coding)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     "Git.Branch.Popup.ShowAllRepositories": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_Assignment/be-template-jpa",
+    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_DailyCoding",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -263,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657009818719</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Tuesday, July 5th, 2022 (28_balancedBrackets Daily Coding)">
+      <created>1657265792757</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1657265792757</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +310,8 @@
     <MESSAGE value="Thu 30 June 2022 (25_Power Daily Coding) &#10;Return base to the power of exponent.&#10;Exception in thread &quot;main&quot; java.lang.StackOverflowError" />
     <MESSAGE value="Friday, July 1st, 2022 (26_treeDFS from Daily Coding)" />
     <MESSAGE value="Monday, July 4th, 2022 (27_treeBFS from Daily Coding)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Monday, July 4th, 2022 (27_treeBFS from Daily Coding)" />
+    <MESSAGE value="Tuesday, July 5th, 2022 (28_balancedBrackets Daily Coding)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuesday, July 5th, 2022 (28_balancedBrackets Daily Coding)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
