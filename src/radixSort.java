@@ -30,9 +30,9 @@ Arrays.sort 사용은 금지됩니다.
  ---------------------------------------*/
 public class radixSort {
     public static void main(String[] args) {
-    int[] arr =  {3, 1, 21, 7};
-    int[] result = sort(arr);
-    System.out.println(Arrays.toString(result));
+        int[] arr =  {3, 1, 21, 7};
+        int[] result = sort(arr);
+        System.out.println(Arrays.toString(result));
 
 }
     public static int[] sort(int[] arr) {
