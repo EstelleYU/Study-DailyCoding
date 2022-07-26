@@ -3,7 +3,7 @@
 /*---------------------------------------
 41_binarySearch
 Daily Coding from CodeStates
-Friday, July 22nd, 2022
+Tuesday, July 26th, 2022
 ---------------------------------------
 문제
 오름차순 정렬된 정수의 배열(arr)과 정수(target)를 입력받아 target의 인덱스를 리턴해야 합니다.
