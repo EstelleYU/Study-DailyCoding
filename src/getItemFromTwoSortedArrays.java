@@ -2,7 +2,7 @@
 /*---------------------------------------
 42_getItemFromTwoSortedArrays
 Daily Coding from CodeStates
-Monday, July 25th, 2022
+Wednesday, July 27th, 2022
 ---------------------------------------
 문제
 길이가 m, n이고 오름차순으로 정렬되어 있는 자연수 배열들을 입력받아 전체 요소 중 k번째 요소를 리턴해야 합니다.
