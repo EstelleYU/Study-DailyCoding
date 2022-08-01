@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Thursday, July 28th, 2022 (43_spiralTraversal, Daily Coding)">
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Friday, July 29th, 2022 (44_LSCS, the Largest Sum of Contiguous Sub-array, Daily Coding)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Git.Branch.Popup.ShowAllRepositories&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hakyeong/IdeaProjects/CodeStates_DailyCoding&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Git.Branch.Popup.ShowAllRepositories": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_DailyCoding",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="Application.LSCS">
+}]]></component>
+  <component name="RunManager" selected="Application.robotPath2">
     <configuration name="LSCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LSCS" />
       <module name="CodeStates_DailyCoding3" />
@@ -50,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primePassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primePassword" />
+    <configuration name="robotPath2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="robotPath2" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.robotPath2" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.LSCS" />
         <item itemvalue="Application.spiralTraversal" />
         <item itemvalue="Application.getItemFromTwoSortedArrays" />
-        <item itemvalue="Application.binarySearch" />
-        <item itemvalue="Application.primePassword" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658973421039</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Friday, July 29th, 2022 (44_LSCS, the Largest Sum of Contiguous Sub-array, Daily Coding)">
+      <created>1659055248992</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1659055248992</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,7 +374,6 @@
       <path value="$PROJECT_DIR$/09_ABCheck" />
       <path value="$PROJECT_DIR$/10_insertDash" />
     </ignored-roots>
-    <MESSAGE value="14 JUNE 2022" />
     <MESSAGE value="Not done  &#10;16 JUNE 2022" />
     <MESSAGE value="17 JUNE 2022" />
     <MESSAGE value="17 JUNE 2022 레퍼코드 포함" />
@@ -391,7 +398,8 @@
     <MESSAGE value="Monday, July 25th, 2022 (42_getItemFromTwoSortedArrays, Daily Coding)" />
     <MESSAGE value="Tuesday, July 26th, 2022 (41_binarySearch, Daily Coding)" />
     <MESSAGE value="Thursday, July 28th, 2022 (43_spiralTraversal, Daily Coding)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thursday, July 28th, 2022 (43_spiralTraversal, Daily Coding)" />
+    <MESSAGE value="Friday, July 29th, 2022 (44_LSCS, the Largest Sum of Contiguous Sub-array, Daily Coding)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Friday, July 29th, 2022 (44_LSCS, the Largest Sum of Contiguous Sub-array, Daily Coding)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
