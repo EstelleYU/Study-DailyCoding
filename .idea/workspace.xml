@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Thursday, August 4th, 2022 (47_inequalityNumber Daily Coding)">
+    <list default="true" id="e6914762-bc51-4798-9dda-8fa281b171c5" name="변경" comment="Thursday, August 11th 2022 (52_uglyNumbers, Daily Coding)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LIS">
-    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LIS" />
+  <component name="RunManager" selected="Application.rangeMinimum">
+    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCS" />
+      <module name="CodeStates_DailyCoding3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LPS" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,22 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inequalityNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inequalityNumber" />
+    <configuration name="rangeMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rangeMinimum" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="robotPath2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="robotPath2" />
-      <module name="CodeStates_DailyCoding3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="subsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="subsetSum" />
+    <configuration name="uglyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uglyNumbers" />
       <module name="CodeStates_DailyCoding3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LIS" />
-        <item itemvalue="Application.subsetSum" />
-        <item itemvalue="Application.inequalityNumber" />
-        <item itemvalue="Application.robotPath2" />
+        <item itemvalue="Application.rangeMinimum" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.uglyNumbers" />
+        <item itemvalue="Application.LCS" />
+        <item itemvalue="Application.LPS" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +370,42 @@
       <option name="project" value="LOCAL" />
       <updated>1659574793670</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Monday, August 8th, 2022 (49_LIS (Longest Increasing Subsequence) Daily Coding)">
+      <created>1659933821132</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1659933821132</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Friday, August 5th, 2022 (48_subsetSum, Daily Coding)">
+      <created>1659933855135</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1659933855135</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Tuesday, August 9th, 2022 (50_LPS, Daily Coding)">
+      <created>1660007405441</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1660007405441</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Wednesday, August 10th 2022 (51_LCS, Daily Coding)">
+      <created>1660180913747</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1660180913747</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Thursday, August 11th 2022 (52_uglyNumbers, Daily Coding)">
+      <created>1660181764978</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1660181764978</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,11 +430,6 @@
       <path value="$PROJECT_DIR$/09_ABCheck" />
       <path value="$PROJECT_DIR$/10_insertDash" />
     </ignored-roots>
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="Mon 20 June 2022 (18_numberSearch Daily Coding)" />
-    <MESSAGE value="TUE 21 June 2022 (19_decryptCaesarCipher Daily Coding)" />
-    <MESSAGE value="Thu 23 June 2022 (20_compressString Daily Coding)" />
-    <MESSAGE value="TGIF!! 24 June 2022 (21_largestProductOfThree Daily Coding)" />
     <MESSAGE value="Fri 24 June 2022 (21_largestProductOfThree Daily  Coding)TGIF!!" />
     <MESSAGE value="Mon 27 June 2022 (22_bubbleSort from CodeStates)" />
     <MESSAGE value="Tue 28 June 2022 (23_fibonacci Daily Coding)" />
@@ -419,7 +450,12 @@
     <MESSAGE value="Monday, August 1st, 2022 (45_robotPath2 Daily Coding)" />
     <MESSAGE value="Tuesday, August 2nd, 2022 (46_coinChange Daily Coding)" />
     <MESSAGE value="Thursday, August 4th, 2022 (47_inequalityNumber Daily Coding)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thursday, August 4th, 2022 (47_inequalityNumber Daily Coding)" />
+    <MESSAGE value="Monday, August 8th, 2022 (49_LIS (Longest Increasing Subsequence) Daily Coding)" />
+    <MESSAGE value="Friday, August 5th, 2022 (48_subsetSum, Daily Coding)" />
+    <MESSAGE value="Tuesday, August 9th, 2022 (50_LPS, Daily Coding)" />
+    <MESSAGE value="Wednesday, August 10th 2022 (51_LCS, Daily Coding)" />
+    <MESSAGE value="Thursday, August 11th 2022 (52_uglyNumbers, Daily Coding)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thursday, August 11th 2022 (52_uglyNumbers, Daily Coding)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
