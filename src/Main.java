@@ -1,6 +1,6 @@
 /* -------------------------------
 
-day, August 12th 2022
+day, July 1st 2022
 Daily Coding from CodeStates
 ------------------------------------
 
